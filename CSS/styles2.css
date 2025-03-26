@@ -1,0 +1,209 @@
+.opisanie {
+    width: 50%;
+    margin-left: 7%;
+    margin-top: 75px;
+    padding-left: 13px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.75);
+    color:#ffffff;
+    font-size: 35;
+    font-family: 'Bubblegum Sans', cursive;
+    
+}
+
+
+p, li {
+    transition: color 0.4s ease;
+}
+
+
+p:hover, li:hover {
+    color: #32CD32;
+}
+
+
+
+.istoria2 {
+    text-align: center;
+}
+
+
+.istoria {
+    width: 43.5%;
+    position: absolute;
+    left: 80;
+    top: 1350;
+    padding-left: 13px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 7px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.75);
+    color: #ffffff;
+    font-size: 25;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+
+
+
+a .lor {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+.lor {
+    width: 17%;
+    text-align: center;
+    position: absolute;
+    right: 250px;
+    top: 1460;
+    font-size: 30;
+    padding: 20px 70px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500; /* Цвет фона ссылки */
+}
+
+
+
+a .igra {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+.igra {
+    width: 17%;
+    text-align: center;
+    position: absolute;
+    right: 250px;
+    top: 1610;
+    font-size: 30px;
+    padding: 20px 70px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+
+a .tutor {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+.tutor {
+    width: 17%;
+    text-align: center;
+    position: absolute;
+    right: 250px;
+    top: 1770;
+    font-size: 30px;
+    padding: 20px 70px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+a .magazin {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+
+.magazin {
+    width: 17%;
+    text-align: center;
+    position: absolute;
+    right: 250px;
+    top: 1930;
+    font-size: 30px;
+    padding: 20px 70px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+.lor:hover, .tutor:hover, .igra:hover, .magazin:hover {
+    transition: box-shadow 0.25s ease;
+    box-shadow: 0 0 16px #f3c90c;
+}
+
+
+.spisok {
+    width: 80%;
+    position: absolute;
+    left: 80;
+    top: 2150; 
+    padding-left: 13px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 7px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+    font-size: 25;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+
+.list {
+    margin-bottom: 25px;
+}
+
+
+.list2 {
+    list-style: none;
+}
+
+.list3 {
+    list-style: none;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+.spisok2 {
+    width: 20%;
+    position: absolute;
+    left: 810;
+    top: 3000; 
+    padding-left: 13px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 7px; 
+    color: #ffffff;
+    font-size: 40;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+.spisok2 p {
+    text-align: center;
+}
+
+
+
+.footer {
+    width: 70%;
+    height: 100px;
+    color: #ffffff;
+    position: relative;
+    left: 15%;
+    bottom: -2900px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 25;
+    padding: 50px
+}

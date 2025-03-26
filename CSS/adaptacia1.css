@@ -1,0 +1,327 @@
+@media (min-width: 1025px) and (max-width: 1200px) {
+    a .knopka0 {
+        width: 73%;
+        font-size: 24px;
+    }
+
+
+    a .knopka1 {
+        width: 73%;
+        font-size: 24px;
+    }
+
+    a .knopka2 {
+        width: 73%;
+        font-size: 24px;
+    }
+
+    a .knopka3 {
+        width: 73%;
+        font-size: 24px;
+    }
+
+    a .knopka4 {
+        width: 73%;
+        font-size: 24px;
+    }
+
+    a .knopka5 {
+        width: 73%;
+        font-size: 24px;
+    }
+
+    a .knopka6 {
+        width: 73%;
+        font-size: 24px;
+    }
+
+    a .knopka7 {
+        width: 73%;
+        font-size: 24px;
+    }
+}
+
+
+
+
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    a .knopka0 {
+        width: 67%;
+        font-size: 20px;
+    }
+
+
+    a .knopka1 {
+        width: 67%;
+        font-size: 20px;
+    }
+
+    a .knopka2 {
+        width: 67%;
+        font-size: 20px;
+    }
+
+    a .knopka3 {
+        width: 67%;
+        font-size: 20px;
+    }
+
+    a .knopka4 {
+        width: 67%;
+        font-size: 20px;
+    }
+
+    a .knopka5 {
+        width: 67%;
+        font-size: 20px;
+    }
+
+    a .knopka6 {
+        width: 67%;
+        font-size: 20px;
+    }
+
+    a .knopka7 {
+        width: 67%;
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) {
+    a .knopka0 {
+        width: 50%;
+        font-size: 18px;
+    }
+
+
+    a .knopka1 {
+        width: 50%;
+        font-size: 18px;
+    }
+
+    a .knopka2 {
+        width: 50%;
+        font-size: 18px;
+    }
+
+    a .knopka3 {
+        width: 50%;
+        font-size: 18px;
+    }
+
+    a .knopka4 {
+        width: 50%;
+        font-size: 18px;
+    }
+
+    a .knopka5 {
+        width: 50%;
+        font-size: 18px;
+    }
+
+    a .knopka6 {
+        width: 50%;
+        font-size: 18px;
+    }
+
+    a .knopka7 {
+        width: 50%;
+        font-size: 18px;
+    }
+}
+
+
+
+@media (max-width: 480px) {
+    a .knopka0 {
+        width: 53%;
+        font-size: 14px;
+        padding: 10px 35px;
+    }
+
+
+    a .knopka1 {
+        width: 53%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 250;
+    }
+
+    a .knopka2 {
+        width: 53%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 340;
+    }
+
+    a .knopka3 {
+        width: 53%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 450;
+    }
+
+    a .knopka4 {
+        width: 53%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 540;
+    }
+
+    a .knopka5 {
+        width: 53%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 660;
+    }
+
+    a .knopka6 {
+        width: 53%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 780;
+    }
+
+    a .knopka7 {
+        width: 53%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 870;
+    }
+
+
+    body {
+        height: 980;
+    }
+}
+
+
+
+@media (max-width: 420px) {
+    a .knopka0 {
+        width: 45%;
+        font-size: 14px;
+        padding: 10px 35px;
+    }
+
+
+    a .knopka1 {
+        width: 45%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 300;
+    }
+
+    a .knopka2 {
+        width: 45%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 390;
+    }
+
+    a .knopka3 {
+        width: 45%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 500;
+    }
+
+    a .knopka4 {
+        width: 45%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 580;
+    }
+
+    a .knopka5 {
+        width: 45%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 710;
+    }
+
+    a .knopka6 {
+        width: 45%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 850;
+    }
+
+    a .knopka7 {
+        width: 45%;
+        font-size: 14px;
+        padding: 10px 35px;
+        top: 930;
+    }
+
+
+    body {
+        height: 1100;
+    }
+}
+
+
+@media (max-width: 320px) {
+    a .knopka0 {
+        width: 45%;
+        font-size: 13px;
+        padding: 10px 35px;
+    }
+
+
+    a .knopka1 {
+        width: 45%;
+        font-size: 13px;
+        padding: 10px 35px;
+        top: 300;
+    }
+
+    a .knopka2 {
+        width: 45%;
+        font-size: 13px;
+        padding: 10px 35px;
+        top: 390;
+    }
+
+    a .knopka3 {
+        width: 45%;
+        font-size: 13px;
+        padding: 10px 35px;
+        top: 500;
+    }
+
+    a .knopka4 {
+        width: 45%;
+        font-size: 13px;
+        padding: 10px 35px;
+        top: 580;
+    }
+
+    a .knopka5 {
+        width: 45%;
+        font-size: 13px;
+        padding: 10px 35px;
+        top: 710;
+    }
+
+    a .knopka6 {
+        width: 45%;
+        font-size: 13px;
+        padding: 10px 35px;
+        top: 850;
+    }
+
+    a .knopka7 {
+        width: 45%;
+        font-size: 13px;
+        padding: 10px 35px;
+        top: 930;
+    }
+
+
+    body {
+        height: 1100;
+    }
+}

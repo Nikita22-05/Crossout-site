@@ -1,0 +1,222 @@
+@media (max-width: 1500px){
+    .opisanie {
+        font-size: 19;
+    }
+
+    .istoria {
+        font-size: 19;
+    }
+
+    .spisok {
+        font-size: 19;
+    }
+
+
+    a .lor {
+        font-size: 25;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    a .tutor {
+        font-size: 25;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    a .igra {
+        font-size: 25;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    a .magazin {
+        font-size: 25;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+
+
+@media (max-width: 1300px){
+    .opisanie {
+        font-size: 17.6;
+    }
+
+    .istoria {
+        font-size: 17.6;
+    }
+
+    .spisok {
+        font-size: 17.6;
+    }
+
+    .spisok2 {
+        left: 500;
+    }
+}
+
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+    .opisanie {
+        font-size: 16.5;
+    }
+
+    .istoria {
+        font-size: 16.5;
+    }
+
+    .spisok {
+        font-size: 16.5;
+    }
+
+    .spisok2 {
+        left: 435;
+    }
+
+    a .lor {
+        font-size: 22;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    a .tutor {
+        font-size: 22;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    a .igra {
+        font-size: 22;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    a .magazin {
+        font-size: 22;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .opisanie {
+        font-size: 15.5;
+    }
+
+    .istoria {
+        font-size: 15.5;
+    }
+
+    .spisok {
+        font-size: 15.5;
+    }
+
+    .spisok2 {
+        left: 380;
+    }
+
+    a .lor {
+        font-size: 19;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    a .tutor {
+        font-size: 19;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    a .igra {
+        font-size: 19;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    a .magazin {
+        font-size: 19;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+
+
+@media (min-width: 240px) and (max-width: 980px) {
+    .opisanie {
+        width: 700px;
+        height: 300px;
+        font-size: 23;
+    }
+
+    .istoria {
+        top: 800;
+        width: 500px;
+        font-size: 20;
+    }
+
+    .lor {
+        width: 25%;
+        right: 5px;
+        top: 900;
+    }
+
+    .igra {
+        width: 25%;
+        right: 5px;
+        top: 1100;
+    }
+
+    .tutor {
+        width: 25%;
+        right: 5px;
+        top: 1300;
+    }
+
+    .magazin {
+        width: 25%;
+        right: 5px;
+        top: 1500;
+    }
+
+    .spisok {
+        top: 1700;
+        font-size: 17;
+    }
+
+    .spisok2 {
+        top: 2500;
+    }
+
+
+    .footer p {
+        font-size: 30;
+    }
+}

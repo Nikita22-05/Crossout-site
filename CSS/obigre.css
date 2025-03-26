@@ -1,0 +1,31 @@
+body {
+    background-image: url('../image/fallback-kv-bg1.png');
+    width: 100%;
+    background-repeat: repeat;
+}
+
+
+.obigre {
+    width: 75%;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    padding-left: 13px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.7);
+    color:#ffffff;
+    font-size: 20;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+p {
+    transition: color 0.4s ease;
+}
+
+
+p:hover {
+    color: #32CD32;
+}

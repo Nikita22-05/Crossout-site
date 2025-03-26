@@ -1,0 +1,225 @@
+body {
+    overflow-x: hidden;
+}
+
+body {
+    background-image: url('../image/fallback-kv-bg1.png');
+    width: 100%;
+    height: 1400;
+    background-repeat: repeat;
+}
+
+
+h1 {
+    text-align: center;
+    margin: 50px;
+    color: #ffffff;
+    font-size: 40;
+}
+
+
+
+
+
+
+a .knopka0 {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+
+.knopka0 {
+    width: 78%;
+    text-align: center;
+    position: absolute;
+    font-size: 28px;
+    padding: 20px 70px;
+    margin: 60px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+
+
+
+
+a .knopka1 {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+
+.knopka1 {
+    width: 78%;
+    text-align: center;
+    position: absolute;
+    top: 300;
+    font-size: 28px;
+    padding: 20px 70px;
+    margin: 60px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+
+
+
+a .knopka2 {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+
+.knopka2 {
+    width: 78%;
+    text-align: center;
+    position: absolute;
+    top: 450;
+    font-size: 28px;
+    padding: 20px 70px;
+    margin: 60px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+
+
+
+a .knopka3 {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+
+.knopka3 {
+    width: 78%;
+    text-align: center;
+    position: absolute;
+    top: 600;
+    font-size: 28px;
+    padding: 20px 70px;
+    margin: 60px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+
+
+
+
+a .knopka4 {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+
+.knopka4 {
+    width: 78%;
+    text-align: center;
+    position: absolute;
+    top: 750;
+    font-size: 28px;
+    padding: 20px 70px;
+    margin: 60px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+
+
+
+
+a .knopka5 {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+
+.knopka5 {
+    width: 78%;
+    text-align: center;
+    position: absolute;
+    top: 928;
+    font-size: 28px;
+    padding: 20px 70px;
+    margin: 60px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+
+
+
+
+a .knopka6 {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+
+.knopka6 {
+    width: 78%;
+    text-align: center;
+    position: absolute;
+    top: 1110;
+    font-size: 28px;
+    padding: 20px 70px;
+    margin: 60px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+
+
+
+
+a .knopka7 {
+    text-decoration: none;
+    color: #f3c90c;
+}
+
+
+.knopka7 {
+    width: 78%;
+    text-align: center;
+    position: absolute;
+    top: 1260;
+    font-size: 28px;
+    padding: 20px 70px;
+    margin: 60px;
+    border: 2px solid #f3c90c;
+    border-radius: 7px;
+    background-color: #070500;
+}
+
+
+
+
+
+.knopka0:hover, .knopka1:hover, .knopka2:hover, .knopka3:hover, .knopka4:hover, .knopka5:hover, .knopka6:hover, .knopka7:hover {
+    transition: box-shadow 0.25s ease;
+    box-shadow: 0 0 17px #f3c90c;
+}
+
+
